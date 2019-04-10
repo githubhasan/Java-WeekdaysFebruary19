@@ -2,6 +2,7 @@ package coreJava;
 
 public class Computer {
 
+
 	int year;
 	String model;
 	String display = "15 inch";
@@ -9,7 +10,7 @@ public class Computer {
 	
 	public Computer() {
 	}
-	
+
 	public Computer(int year) {
 		this.year=year;
 		System.out.println(year);
