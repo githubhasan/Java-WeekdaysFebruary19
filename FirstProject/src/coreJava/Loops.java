@@ -21,7 +21,7 @@ public class Loops {
 		}
 		
 		//enhanced for loop
-		String array[] = {"Apu","Sourav","Adnan","Nusrat"};
+		String array[] = {"Hasan","Shohag","Showkat","Md"};
 		//int array2[]= {1,2,3,4};
 		System.out.println("lenth of array is "+array.length);
 		

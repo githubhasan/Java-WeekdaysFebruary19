@@ -4,8 +4,8 @@ public class DataTypes {
 
 	
 	public static void main(String [] args) {
-		String firstName = "Apu";
-		String lastName = "Ahmed";
+		String firstName = "Showkat";
+		String lastName = "Hasan";
 
 		System.out.println(firstName+" "+lastName);
 		

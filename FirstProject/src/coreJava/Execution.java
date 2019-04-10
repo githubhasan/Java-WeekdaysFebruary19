@@ -6,7 +6,7 @@ public class Execution {
 		
 		Computer refVar1 = new Computer();
 		 
-		refVar1.model = "Asus";
+		refVar1.model = "HP";
 		System.out.println(refVar1.model);
 		
 		Computer refVar3 = new Computer("Mac");
